@@ -1,5 +1,7 @@
 # request_slow_log    
 
+Logging http slow requests, equivalent to sql slow query statement logging.
+ 
 ---  
 
 I don't know who the original author is, so I can't post LICENSE. I only saw this module occasionally and had implemented the same functionality before, 
